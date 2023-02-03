@@ -1,5 +1,7 @@
 # SciCommons
 
+For GSoC applicants: the proposal should outline the technologies you are familiar with in order to create the front-end, back-end, communication between the two as well as communication between them and the openReview API. The project aims to create a browser-based portal where papers can be viewed, commented on and rated, and these comments and ratings are stored in the back-end and associated with each user, who can get a reputation from this activity. Imagine a StackOverflow or Reddit for scientific articles. 
+
 Project Title: A social-web tool to facilitate rating and commenting on research reports
  
 It is generally agreed that the 10 billion USD research/science publishing industry represents a bad way to expend scarce research funds. Funded by university budgets and grants to researchers, and based on the volunteerism of the research community, this market diverts substantial sums from the research activity itself, while putting up barriers to access to the research literature. Current open-access mandates merely transfer the costs from reader to authors and/or their funding/employing organizations. Research journals provide objective peer-review and an article rating and filtering mechanism. We propose to to leverage modern internet-based social technology to create an open reviewing and quality-ranking web portal that, if adopted, will drastically improve research discourse, functioning and accessibility.
