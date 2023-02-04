@@ -1,6 +1,6 @@
 # SciCommons
 
-For GSoC applicants: the proposal should outline the technologies you are familiar with in order to create the front-end, back-end, communication between the two as well as communication between them and the openReview API. The project aims to create a browser-based portal where papers can be viewed, commented on and rated, and these comments and ratings are stored in the back-end and associated with each user, who can get a reputation from this activity. Imagine a StackOverflow or Reddit for scientific articles. 
+For GSoC applicants: the proposal should outline the technologies you are familiar with in order to create the front-end, back-end, communication between the two as well as communication between them and the openReview API. The project aims to create a browser-based portal where papers can be viewed, commented on and rated, and these comments and ratings are stored in the back-end and associated with each user, who can get a reputation from this activity. Imagine a StackOverflow or Reddit for scientific articles. The GSoC proposal should discuss in as much detail as possible the technical aspects and feasibility of the planned work based on the internâ€™s experience and knowledge.
 
 **Project Title: A social-web tool to facilitate rating and commenting on research reports**
  
@@ -20,3 +20,10 @@ Pre-requisite skills: Comfortable with Python. Experience with web technology â€
 Tech keywords: Science publishing, social web, science portals.
 Mentor: JB Poline (mentor), Suresh Krishna (co-mentor)
 No planned longer absences.
+
+Answers to FAQ
+--------------
+1. The goal for now is to start small-scale as a proof of concept, so we are not trying to capture all of the scientific literature, either via a cron job, or via users posting articles to start a discussion. Instead the idea for now, but this can be discussed/changed, is to start with article authors submitting their articles to openReview via the portal using the openReview API. This then makes their articles available on the portal. Other users can then comment and review on the article, similar to what happens in OpenReview. The main difference is that commenters/users get a reputation via their activity, and users can filter articles who have a certain reputation among users with a certain reputation, so that you can for example see what high-reputation people think of the article. Journals can now form as communities of commenters/reviewers - a community can manage the rating/reviewing of submitted articles and in their own page, declare an article as published by them. In this scheme, multiple communities/journals can publish the same article, so the authors have the right to allocate formal publication to one of these journals, so that their article can be indexed by services following the current system.
+
+This is different from Semantic Scholar, Pubmed etc, because they do not have any of the above rating features - they are just databases of titles and abstracts like Pubmed, and a searching tool.
+
