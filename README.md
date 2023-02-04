@@ -27,3 +27,4 @@ Answers to FAQ
 
 This is different from Semantic Scholar, Pubmed etc, because they do not have any of the above rating features - they are just databases of titles and abstracts like Pubmed, and a searching tool.
 
+We already have potential tie-ins with some communities, which will mean that communities (journals) and authors from that community (interetsed in publishing in that journal) will likely use the platform in the near future once it is built.
