@@ -28,3 +28,7 @@ Answers to FAQ
 This is different from Semantic Scholar, Pubmed etc, because they do not have any of the above rating features - they are just databases of titles and abstracts like Pubmed, and a searching tool.
 
 We already have potential tie-ins with some communities, which will mean that communities (journals) and authors from that community (interetsed in publishing in that journal) will likely use the platform in the near future once it is built.
+
+2. And yes, all of this is independent of OpenReview. 
+
+3. Such a system does not exist now because a reputation-based platform has not been developed till now. Pure commenting systems were Pubmed Commons (died due to nobody using it, like comments sections that every journal has), PubPeer (used only for negative criticism), OpenReview (used by some conferences). Reputation allows one to filter spammy reviews. Having real-name known to system to be part of a community (journal) also allows one to do the same thing. Having real-name be invisible to community allows for fearless reviewing. Ability to earn a reputation gives one incentive to participate. And now that Twitter is not so fashionable, perhaps there is an incentive to move some of that conversation to a different portal, and have it be conducted in longer-form.
